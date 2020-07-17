@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PWA-ROBO/static/css/main.eb5baaa0.chunk.css",
+    "main.js": "/PWA-ROBO/static/js/main.a2e6bddf.chunk.js",
+    "main.js.map": "/PWA-ROBO/static/js/main.a2e6bddf.chunk.js.map",
+    "runtime-main.js": "/PWA-ROBO/static/js/runtime-main.d3a95e3f.js",
+    "runtime-main.js.map": "/PWA-ROBO/static/js/runtime-main.d3a95e3f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/PWA-ROBO/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8bf57d0e.chunk.js": "/PWA-ROBO/static/js/2.8bf57d0e.chunk.js",
+    "static/js/2.8bf57d0e.chunk.js.map": "/PWA-ROBO/static/js/2.8bf57d0e.chunk.js.map",
+    "index.html": "/PWA-ROBO/index.html",
+    "precache-manifest.51040f942f46cd279b7efe9824ac42a6.js": "/PWA-ROBO/precache-manifest.51040f942f46cd279b7efe9824ac42a6.js",
+    "service-worker.js": "/PWA-ROBO/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/PWA-ROBO/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.eb5baaa0.chunk.css.map": "/PWA-ROBO/static/css/main.eb5baaa0.chunk.css.map",
+    "static/js/2.8bf57d0e.chunk.js.LICENSE.txt": "/PWA-ROBO/static/js/2.8bf57d0e.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/PWA-ROBO/static/media/SEGA.12a3db8b.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d3a95e3f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.8bf57d0e.chunk.js",
+    "static/css/main.eb5baaa0.chunk.css",
+    "static/js/main.a2e6bddf.chunk.js"
+  ]
+}
