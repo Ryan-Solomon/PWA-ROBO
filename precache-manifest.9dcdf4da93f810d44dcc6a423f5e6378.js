@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5f6d6f2692884c4627c2eed6331a91f2",
+    "revision": "01f0dd896bd77e6638a90ef83137622d",
     "url": "/PWA-ROBO/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-ROBO/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "6a0cc34e6d6b9cacc626",
-    "url": "/PWA-ROBO/static/css/main.eb5baaa0.chunk.css"
+    "revision": "e076201421c5a68e54e3",
+    "url": "/PWA-ROBO/static/css/main.8d17a169.chunk.css"
   },
   {
     "revision": "ca5411f3cb874653a63d",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/PWA-ROBO/static/js/2.8bf57d0e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6a0cc34e6d6b9cacc626",
-    "url": "/PWA-ROBO/static/js/main.a2e6bddf.chunk.js"
+    "revision": "e076201421c5a68e54e3",
+    "url": "/PWA-ROBO/static/js/main.d19c5818.chunk.js"
   },
   {
     "revision": "6cea2aa24a4ec6125ded",
